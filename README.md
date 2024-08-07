@@ -1,6 +1,6 @@
 # Off-Platform Project (CodeCademy): Fotomatic
 
-[Fixed Project](https://armand-sa.github.io/Fotomatic-Project/)
+[Fixed Project](https://armand-sa.github.io/Fotomatic-Project/) **- Screenshot below:**
 
 ___
 
